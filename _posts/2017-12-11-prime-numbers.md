@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Prime numbers are like cherries
+date: 2017-12-11 00:00:00 +01:00
+layout: post
 subtitle: Once you start with them, you can't stop
 gh-repo: binoculo/binoculo.github.io
-gh-badge: [star, follow]
+gh-badge:
+- star
+- follow
 ---
 
 When I was a kid I started counting while playing hide and seek.
