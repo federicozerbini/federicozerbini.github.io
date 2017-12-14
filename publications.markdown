@@ -20,7 +20,7 @@ $$ f(x) = \int_{-\infty}^\infty
     \hat f(\xi)\,e^{2 \pi i \xi x}
     \,d\xi $$
 
-[binoculo.github.io/xyz-threesome.pdf](binoculo.github.io/chalks-equals.pdf)
+[binoculo.github.io/chalks-equals.pdf](binoculo.github.io/chalks-equals.pdf)
 
 ## Losing strings: elliptic multiple zeta values
 
@@ -32,4 +32,4 @@ $$
  \,d\mathbf{z}
 $$
 
-[binoculo.github.io/xyz-threesome.pdf](binoculo.github.io/strings-zeta-values.pdf)
+[binoculo.github.io/strings-zeta-values.pdf](binoculo.github.io/strings-zeta-values.pdf)
