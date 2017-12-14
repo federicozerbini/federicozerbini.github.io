@@ -29,7 +29,7 @@ baseurl: ''
 description: For all you mathematical needs.
 navbar-links:
   About Me: aboutme
-  Publications: publications
+  Publications: publications.markdown
   Resources:
   - Learn markdown: http://www.markdowntutorial.com/
   - GitHub Pages: https://pages.github.com/
