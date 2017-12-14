@@ -5,7 +5,7 @@ date: 2017-12-14 10:03:00 +01:00
 
 ## Why Z, Y and X always fail at having a threesome
 
-**ABSTRACT:** The variables X, Y and Z are frenzied little suckers. They'd be sucking faces all day long when you're not watching, if aren't careful, but whenever they try at a threesome, they fail miserably. Why? The Equal Sign AKA Evil Overlord AKA "=" (for your slow, non-mathemagician minds), is always one step ahead, dividing the aspiring lovers without mercy.
+**ABSTRACT:** The variables X, Y and Z are frenzied little suckers. They'd be sucking faces all day long when you're not watching, if aren't careful, but whenever they try at a threesome, they fail miserably. Why? The Equal Sign {{smallcaps aka }} Evil Overlord {{smallcaps aka }} "=" (for your slow, non-mathemagician minds), is always one step ahead, dividing the aspiring lovers without mercy.
 
 $$ x=\frac{1+y}{1+2z^2} $$
 
