@@ -32,4 +32,4 @@ $$
  \,d\mathbf{z}
 $$
 
-[binoculo.github.io/xyz-threesome.pdf](binoculo.github.io/xyz-threesome.pdf)
+[binoculo.github.io/xyz-threesome.pdf](binoculo.github.io/strings-zeta-values.pdf)
