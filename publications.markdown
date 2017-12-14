@@ -28,10 +28,13 @@ $$ f(x) = \int_{-\infty}^\infty
 
 **ABSTRACT:** Think about strings. Yes, your shoes' strings. Einstein was really talking about them, on his ramblings. He was trying to find the most efficient way to tie your shoes, because he was always stumbling down while working at the patent office. I set out to prove that the elliptic multiple zeta values are coordinates for where your hands and strings need to be while tying your shoes.
 
-$$
- \mathop{\int \!\!\! \int}_{\mathbf{z} \in \mathbf{R}^2} 
+katex.render("\mathop{\int \!\!\! \int}_{\mathbf{z} \in \mathbf{R}^2} 
  \! \langle \mathbf{z},\mathbf{y}\rangle 
- \,d\mathbf{z}
-$$
+ \,d\mathbf{z}", element, {
+  displayMode: true,
+  macros: {
+    "\\RR": "\\mathbb{R}"
+  }
+});
 
 [binoculo.github.io/xyz-threesome.pdf](binoculo.github.io/strings-zeta-values.pdf)
