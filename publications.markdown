@@ -1,6 +1,7 @@
 ---
 title: Publications
 date: 2017-12-14 10:03:00 +01:00
+show-avatar: false
 ---
 
 ## Why Z, Y and X always fail at having a threesome
