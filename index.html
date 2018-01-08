@@ -8,7 +8,7 @@ use-site-title: true
 <div>
   {% assign publications = site.pages | where: 'name','publications.md' %}
 	
-  {{ publications | markdownify }}
+  {{ publications }}
 </div>
 
 <div class="posts-list">
