@@ -1,5 +1,5 @@
 ---
-title: Mathemagician
+title: Federico Zerbini
 timezone: Europe/Paris
 collections:
   posts:
@@ -21,16 +21,12 @@ defaults:
   values:
     layout: page
     show-avatar: true
-url: http://binoculo.github.io
+url: http://federicozerbini.github.io
 baseurl: 
-description: For all you mathematical needs.
+description: Ph.D in Mathematics
 navbar-links:
-  About Me: aboutme
+  About: aboutme
   Publications: publications
-  Resources:
-  - Learn markdown: http://www.markdowntutorial.com/
-  - GitHub Pages: https://pages.github.com/
-  Author's home: "#"
 avatar: "/img/avatar-icon.png"
 author:
   name: Federico Zerbini
