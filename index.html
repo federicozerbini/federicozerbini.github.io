@@ -6,8 +6,10 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-  {% assign about = site.pages | where: 'name','publlications.markdown' %}
+  {% assign publications = site.pages | where: 'name','publlications.markdown' %}
   {{publications}}
+	
+  <br/>
 	
   {% for post in paginator.posts %}
   <article class="post-preview">
