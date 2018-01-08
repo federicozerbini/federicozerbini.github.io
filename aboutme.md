@@ -1,7 +1,7 @@
 ---
-title: Who am I?
-layout: page
+title: About me
 subtitle: And why you'd want to go on a date with me
+layout: page
 ---
 
 My name is Federico Zerbini. I am a mathemagician.
