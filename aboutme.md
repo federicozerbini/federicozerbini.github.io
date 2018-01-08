@@ -5,4 +5,8 @@ subtitle:
 layout: page
 ---
 
-I'm Federico Zerbini
+Hey there.
+
+I'm Federico Zerbini, nice to meet you.
+
+You can reach out to me at: [Zerbini@ipht.fr](Zerbini@ipht.fr)
