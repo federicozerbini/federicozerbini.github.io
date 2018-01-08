@@ -6,9 +6,7 @@ use-site-title: true
 ---
 
 <div>
-  {% capture publications %}
-    {% include publications.md %}
-  {% endcapture %}
+  {% assign publications = site.pages | where: 'name','publications.md' %}
 	
   {{ publications | markdownify }}
 </div>
