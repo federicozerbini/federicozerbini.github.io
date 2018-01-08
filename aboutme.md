@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About mee
 subtitle: And why you'd want to go on a date with me
 layout: page
 ---
