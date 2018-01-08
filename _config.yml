@@ -14,13 +14,13 @@ defaults:
     type: posts
   values:
     layout: post
-    comments: true
-    social-share: true
+    comments: false
+    social-share: false
 - scope:
     path: ''
   values:
     layout: page
-    show-avatar: true
+    show-avatar: false
 url: http://federicozerbini.github.io
 baseurl: 
 description: Ph.D in Mathematics
