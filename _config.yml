@@ -49,11 +49,11 @@ author:
   yelp: yourname
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
@@ -67,10 +67,10 @@ footer-links-active:
   twitch: false
   yelp: false
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 excerpt_length: 50
 title-separator: "-"
 markdown: kramdown
