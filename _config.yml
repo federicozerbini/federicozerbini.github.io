@@ -1,5 +1,5 @@
 ---
-title: Mathemagician
+title: Federico Zerbini
 timezone: Europe/Paris
 collections:
   posts:
@@ -14,23 +14,19 @@ defaults:
     type: posts
   values:
     layout: post
-    comments: true
-    social-share: true
+    comments: false
+    social-share: false
 - scope:
     path: ''
   values:
     layout: page
-    show-avatar: true
-url: http://binoculo.github.io
+    show-avatar: false
+url: http://federicozerbini.github.io
 baseurl: ''
-description: For all you mathematical needs.
+description: Ph.D in Mathematics
 navbar-links:
   About Me: aboutme
   Publications: publications
-  Resources:
-  - Learn markdown: http://www.markdowntutorial.com/
-  - GitHub Pages: https://pages.github.com/
-  Author's home: "#"
 avatar: "/img/avatar-icon.png"
 author:
   name: Federico Zerbini
@@ -53,11 +49,11 @@ author:
   yelp: yourname
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
@@ -71,10 +67,10 @@ footer-links-active:
   twitch: false
   yelp: false
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 excerpt_length: 50
 title-separator: "-"
 markdown: kramdown
