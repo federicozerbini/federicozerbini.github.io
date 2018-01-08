@@ -1,5 +1,5 @@
 ---
-title: Federico Zerbini
+title: Home
 show-avatar: false
 layout: page
 ---
