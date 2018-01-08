@@ -4,12 +4,11 @@ layout: page
 subtitle: you bettere beware, people
 use-site-title: true
 ---
-<div>
-	{% assign about = site.pages | where: 'name','publlications.markdown' %}
-	{{publications}}
-</div>
 
 <div class="posts-list">
+  {% assign about = site.pages | where: 'name','publlications.markdown' %}
+  {{publications}}
+	
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
