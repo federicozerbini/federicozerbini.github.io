@@ -6,8 +6,9 @@ use-site-title: true
 ---
 
 <div class="posts-list">
-  {% assign publications = site.pages | where: 'name','publications.markdown' %}
-  {{publications}}
+  
+  {% capture publications %}{% include publications.markdown %}{% endcapture %}
+	{{ publications | markdownify }}
 	
   <br/>
 	
