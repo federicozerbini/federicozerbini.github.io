@@ -9,4 +9,4 @@ Hey there.
 
 I'm Federico Zerbini, nice to meet you.
 
-You can reach out to me at: [Zerbini@ipht.fr](Zerbini@ipht.fr)
+You can reach out to me at: [zerbini@ipht.fr](zerbini@ipht.fr)
