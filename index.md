@@ -4,5 +4,5 @@ show-avatar: false
 layout: page
 ---
 
-{% assign publications = site.pages | where: 'name','publications.md' %}
+{% assign publications = site.pages | where: 'name','publications.markdown' %}
 {{publications}}
