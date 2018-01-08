@@ -74,7 +74,7 @@ share-links-active:
 excerpt_length: 50
 title-separator: "-"
 markdown: kramdown
-# highlighter: rouge
+highlighter: rouge
 permalink: "/:title/"
 paginate: 5
 kramdown:
