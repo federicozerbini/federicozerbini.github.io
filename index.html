@@ -7,10 +7,11 @@ use-site-title: true
 
 <div class="posts-list">
   
-  {% capture publications %}{% include publications.md %}{% endcapture %}
-	{{ publications | markdownify }}
+  {% capture publications %}
+    {% include publications.md %}
+  {% endcapture %}
 	
-  <br/>
+  {{ publications | markdownify }}
 	
   {% for post in paginator.posts %}
   <article class="post-preview">
