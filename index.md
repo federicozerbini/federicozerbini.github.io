@@ -11,5 +11,3 @@ layout: page
 
 {% assign publications = site.pages | where: 'name','publications.markdown' %}
 {{publications}}
-
-ciao
