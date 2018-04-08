@@ -10,4 +10,4 @@ layout: page
 ## Articles
 
 {% assign publications = site.pages | where: 'name','publications.markdown' %}
-{{publications}}
+{{Publications and preprints}}
