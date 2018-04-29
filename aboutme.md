@@ -13,7 +13,7 @@ Point courrier 136
 CEA/DSM/IPhT, CEA/Saclay
 F-91191 Gif-sur-Yvette Cedex
 
-You can reach out to me at: [federico.zerbini@ipht.fr](mailto:federico.zerbini@ipht.fr)
+You can reach out to me at: federico.zerbini "at" ipht.fr
 
 [Here](/uploads/Zerbini-ShortCV.pdf) you can look at my CV
 
