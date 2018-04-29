@@ -11,3 +11,8 @@ layout: page
 
 {% assign publications = site.pages | where: 'name','publications.markdown' %}
 {{publications}}
+
+## Upcoming talks
+
+{% assign publications = site.pages | where: 'name','nexttalks.markdown' %}
+{{talks}}
