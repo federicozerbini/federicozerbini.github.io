@@ -12,7 +12,7 @@ I am mainly interested in:
 * Feynman amplitudes, and especially string theory amplitudes
 * All kinds of modular forms
 
-Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar on motives and period integrals in quantum field theory and string theory](http://www.ihes.fr/~vanhove/motivefeynman-online.html).
+Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](http://www.ihes.fr/~vanhove/motivefeynman-online.html) on motives and period integrals in quantum field theory and string theory.
 
 [Here](/uploads/Zerbini-ShortCV.pdf) you can look at my CV.
 
