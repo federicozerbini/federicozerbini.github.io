@@ -15,6 +15,8 @@ Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierr
 
 You can reach out to me at: federico.zerbini "at" ipht.fr
 
+{% assign talks = site.pages | where: 'name','articles.markdown' %}
+
 # Upcoming talks
 
 {% assign talks = site.pages | where: 'name','nexttalks.markdown' %}
