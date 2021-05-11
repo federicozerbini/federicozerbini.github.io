@@ -1,5 +1,6 @@
 ---
 title: Home
+position: 0
 show-avatar: false
 layout: page
 ---
@@ -51,5 +52,7 @@ Commun. Number Theory Phys. Vol. 14 (2020), no. 2, 413–452
 *Title*: New modular forms from string theory, and single-valued periods
 
 *Abstract*: I will introduce a class of modular forms, called modular graph functions, which originate from the computation of Feynman integrals in string theory. Modular graph functions generalise real analytic Eisenstein series, their expansion coefficients are multiple zeta values, and they are conjecturally related to the theory of single-valued periods, which I will briefly review. In particular, the expansion coefficients are conjectured to belong to a small subalgebra of the multiple zeta values whose elements are single-valued periods. I will present a proof of this conjecture for the simplest kind of Feynman integrals, obtained in collaboration with Don Zagier. I will also mention how modular graph functions are expected to be related to iterated extensions of pure motives of modular forms, and how one can attach L-functions to them.
+
+**A picture in Granada (2017)**
 
 ![IMG_6845.JPG](/uploads/IMG_6845.JPG)

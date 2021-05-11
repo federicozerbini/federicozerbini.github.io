@@ -1,5 +1,6 @@
 ---
 title: About me
+position: 1
 show-avatar: false
 subtitle: 
 layout: page
