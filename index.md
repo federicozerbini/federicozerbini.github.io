@@ -1,6 +1,6 @@
 ---
 title: Home
-show-avatar: true
+show-avatar: false
 layout: page
 ---
 
