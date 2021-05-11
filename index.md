@@ -1,6 +1,6 @@
 ---
 title: Home
-show-avatar: false
+show-avatar: IMG_6845.JPG
 layout: page
 ---
 
