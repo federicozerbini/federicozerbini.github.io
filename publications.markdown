@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Publications and preprints
 date: 2017-12-14 10:03:00 +01:00
 position: 2
 show-avatar: false
