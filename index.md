@@ -2,7 +2,7 @@
 title: Home
 position: 0
 show-avatar: false
-layout: page
+layout: default
 ---
 
 Since September 2020, I am a postdoc at [IPhT](https://www.ipht.fr/) (CEA-Saclay), financed by a Marie Sklodowska-Curie IF grant for the project HIPSAM (Higher Polylogarithms and String Amplitudes).
