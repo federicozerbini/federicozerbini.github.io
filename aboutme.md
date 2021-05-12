@@ -3,7 +3,7 @@ title: About me
 position: 1
 show-avatar: false
 subtitle: 
-layout: page
+layout: default
 ---
 
 Since September 2020, I am a postdoc at [IPhT](https://www.ipht.fr/) (CEA-Saclay), financed by a Marie Sklodowska-Curie IF grant for the project HIPSAM (HIgher Polylogarithms and String AMplitudes).
@@ -11,7 +11,7 @@ Since September 2020, I am a postdoc at [IPhT](https://www.ipht.fr/) (CEA-Saclay
 I am mainly interested in:
 * Periods, and especially periods of fundamental groupoids of Riemann surfaces, such as multiple polylogarithms and higher-genus generalisations
 * Feynman amplitudes, and especially string theory amplitudes
-* All kinds of modular forms
+* Modular forms
 
 Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](http://www.ihes.fr/~vanhove/motivefeynman-online.html) on motives and period integrals in quantum field theory and string theory.
 
