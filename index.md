@@ -15,30 +15,24 @@ You can reach out to me at: federico.zerbini "at" ipht.fr
 
 **Building blocks of closed and open string amplitudes**
 
-*Joint with Pierre Vanhove*
-
-To appear in the proceedings of the conference Mathemamplitudes (2020)
-
+*Joint with Pierre Vanhove*\
+To appear in the proceedings of the conference Mathemamplitudes (2020)\
 [arXiv:2007.08981 \[hep-th\]](https://arxiv.org/pdf/2007.08981.pdf)
 
 **Genus-zero and genus-one string amplitudes and special multiple zeta values**
 
-*Joint with Don Zagier*
-
-Commun. Number Theory Phys. Vol. 14 (2020), no. 2, 413–452
-
+*Joint with Don Zagier*\
+Commun. Number Theory Phys. Vol. 14 (2020), no. 2, 413–452\
 [arXiv:1906.12339 \[math.NT\]](https://arxiv.org/pdf/1906.12339.pdf)
 
 **Single-valued hyperlogarithms, correlation functions and closed string amplitudes**
 
-*Joint with Pierre Vanhove*
-
+*Joint with Pierre Vanhove*\
 [arXiv:1812.03018 \[hep-th\]](https://arxiv.org/pdf/1812.03018.pdf)
 
 # Upcoming talks
 
-*21/05/2021, 10.30 am*
-
+*21/05/2021, 10.30 am*\
 [RSVP online conference](https://sites.google.com/view/rsvp-conference/home) on special values and periods.
 
 *Title*: New modular forms from string theory, and single-valued periods
