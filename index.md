@@ -1,7 +1,7 @@
 ---
 title: Home
 position: 0
-show-avatar: true
+show-avatar: false
 layout: page
 ---
 
