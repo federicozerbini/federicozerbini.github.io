@@ -1,7 +1,7 @@
 ---
 title: Home
 position: 0
-show-avatar: false
+show-avatar: true
 layout: page
 ---
 
@@ -14,19 +14,16 @@ You can reach out to me at: federico.zerbini "at" ipht.fr
 # Latest articles
 
 **Building blocks of closed and open string amplitudes**
-
 *Joint with Pierre Vanhove*\
 To appear in the proceedings of the conference Mathemamplitudes (2020)\
 [arXiv:2007.08981 \[hep-th\]](https://arxiv.org/pdf/2007.08981.pdf)
 
 **Genus-zero and genus-one string amplitudes and special multiple zeta values**
-
 *Joint with Don Zagier*\
 Commun. Number Theory Phys. Vol. 14 (2020), no. 2, 413–452\
 [arXiv:1906.12339 \[math.NT\]](https://arxiv.org/pdf/1906.12339.pdf)
 
 **Single-valued hyperlogarithms, correlation functions and closed string amplitudes**
-
 *Joint with Pierre Vanhove*\
 [arXiv:1812.03018 \[hep-th\]](https://arxiv.org/pdf/1812.03018.pdf)
 
