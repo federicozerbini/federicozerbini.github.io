@@ -6,6 +6,10 @@ show-avatar: false
 layout: default
 ---
 
+**Construction of Maurer-Cartan elements over configuration spaces of curves**\
+*Joint with Benjamin Enriquez*\
+[arXiv:2110.09341 \[math.AG\]](https://arxiv.org/abs/2110.09341)
+
 **Building blocks of closed and open string amplitudes**\
 *Joint with Pierre Vanhove*\
 To appear in the proceedings of the conference Mathemamplitudes (2020)\
