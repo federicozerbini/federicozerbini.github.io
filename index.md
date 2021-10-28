@@ -13,6 +13,10 @@ You can reach out to me at: federico.zerbini "at" ipht.fr
 
 # Latest articles
 
+**Construction of Maurer-Cartan elements over configuration spaces of curves**
+*Joint with Benjamin Enriquez*\
+[arXiv:2110.09341 \[math.AG\]](https://arxiv.org/abs/2110.09341)
+
 **Building blocks of closed and open string amplitudes**
 *Joint with Pierre Vanhove*\
 To appear in the proceedings of the conference Mathemamplitudes (2020)\
@@ -22,10 +26,6 @@ To appear in the proceedings of the conference Mathemamplitudes (2020)\
 *Joint with Don Zagier*\
 Commun. Number Theory Phys. Vol. 14 (2020), no. 2, 413–452\
 [arXiv:1906.12339 \[math.NT\]](https://arxiv.org/pdf/1906.12339.pdf)
-
-**Single-valued hyperlogarithms, correlation functions and closed string amplitudes**
-*Joint with Pierre Vanhove*\
-[arXiv:1812.03018 \[hep-th\]](https://arxiv.org/pdf/1812.03018.pdf)
 
 # Upcoming talks
 
