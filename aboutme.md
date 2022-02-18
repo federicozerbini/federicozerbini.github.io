@@ -9,7 +9,7 @@ layout: default
 Since September 2020, I am a postdoc at [IPhT](https://www.ipht.fr/) (CEA-Saclay), financed by a Marie Sklodowska-Curie IF grant for the project HIPSAM (HIgher Polylogarithms and String AMplitudes).
 
 I am mainly interested in:
-* Periods, and especially periods of fundamental groupoids of Riemann surfaces, such as multiple polylogarithms and higher-genus generalisations
+* Periods, and especially multiple zeta values, multiple polylogarithms and higher-genus generalisations
 * Feynman amplitudes, and especially string theory amplitudes
 * Modular forms
 
