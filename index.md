@@ -7,7 +7,7 @@ layout: page
 
 Since September 2020, I am a postdoc at [IPhT](https://www.ipht.fr/) (CEA-Saclay), financed by a Marie Sklodowska-Curie IF grant for the project HIPSAM (Higher Polylogarithms and String Amplitudes).
 
-Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](http://www.ihes.fr/\~vanhove/motivefeynman-online.html) on motives and period integrals in quantum field theory and string theory.
+Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](http://www.ihes.fr/\~vanhove/motivefeynman-online.html) on motives and period integrals in quantum field theory and string theory, and also one of the special sessions of the joint [AMS-EMS-SMF International Meeting](https://ams-ems-smf2022.inviteo.fr/en/welcome/4) held in Grenoble in July 2022.
 
 You can reach out to me at: federico.zerbini "at" ipht.fr
 
