@@ -27,6 +27,6 @@ To appear in the proceedings of the conference Mathemamplitudes (2020)\
 Commun. Number Theory Phys. Vol. 14 (2020), no. 2, 413–452\
 [arXiv:1906.12339 \[math.NT\]](https://arxiv.org/pdf/1906.12339.pdf)
 
-**A picture in Granada (2017)**
+**A picture in Cote d'Azur (2021)**
 
-![IMG_6845.JPG](/uploads/IMG_6845.JPG)
+![IMG_2804.JPG](/uploads/IMG_2804.JPG)
