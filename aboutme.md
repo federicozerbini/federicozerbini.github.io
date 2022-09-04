@@ -18,7 +18,7 @@ I am mainly interested in:
 
 Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](http://www.ihes.fr/\~vanhove/motivefeynman-online.html) on motives and period integrals in quantum field theory and string theory.
 
-[Here](/uploads/Zerbini-ShortCV.pdf) you can look at my CV.
+[Here](/uploads/Zerbini-CV.pdf) you can look at my CV.
 
 [Here](http://hss.ulb.uni-bonn.de/2018/5000/5000.htm) you can find my PhD Thesis, entitled "Elliptic multiple zeta values, modular graph functions and genus 1 superstring scattering amplitudes", published by the University of Bonn and supervised by [Don Zagier](https://people.mpim-bonn.mpg.de/zagier/).
 
