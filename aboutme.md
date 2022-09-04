@@ -6,7 +6,7 @@ subtitle:
 layout: default
 ---
 
-Since September 2020, I am a postdoc at [IPhT](https://www.ipht.fr/) (CEA-Saclay), financed by a Marie Sklodowska-Curie IF grant for the project HIPSAM (HIgher Polylogarithms and String AMplitudes).
+Since September 2022, I am a postdoctoral fellow at the [Mathematical Institute](https://www.maths.ox.ac.uk/) of the University of Oxford.
 
 I am mainly interested in:
 
@@ -25,9 +25,9 @@ Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierr
 You can reach out to me at: federico.zerbini "at" maths.ox.ac.uk
 
 Professional address: 
-Mathematical Institute, University of Oxford
-Andrew Wiles Building
-Radcliffe Observatory Quarter (550)
-Woodstock Road
-Oxford
-OX2 6GG
+Mathematical Institute, University of Oxford,
+Andrew Wiles Building,
+Radcliffe Observatory Quarter (550),
+Woodstock Road,
+Oxford,
+OX2 6GG (UK)
