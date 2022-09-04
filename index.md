@@ -7,7 +7,7 @@ layout: page
 
 Since September 2022, I am a postdoctoral fellow at the [Mathematical Institute](https://www.maths.ox.ac.uk/) of the University of Oxford.
 
-Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](http://www.ihes.fr/\~vanhove/motivefeynman-online.html) on motives and period integrals in quantum field theory and string theory, and also one of the special sessions of the joint [AMS-EMS-SMF International Meeting](https://ams-ems-smf2022.inviteo.fr/en/welcome/4) held in Grenoble in July 2022.
+Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](http://www.ihes.fr/\~vanhove/motivefeynman-online.html) on motives and period integrals in quantum field theory and string theory.
 
 You can reach out to me at: federico.zerbini "at" maths.ox.ac.uk
 
