@@ -6,6 +6,10 @@ show-avatar: false
 layout: default
 ---
 
+**Analogues of hyperlogarithm functions on affine complex curves**
+*Joint with Benjamin Enriquez*\
+[arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
+
 **Construction of Maurer-Cartan elements over configuration spaces of curves**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2110.09341 \[math.AG\]](https://arxiv.org/abs/2110.09341)
