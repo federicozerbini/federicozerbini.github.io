@@ -26,7 +26,7 @@ Commun. Number Theory Phys. Vol. 14 (2020), no. 2, 413–452\
 
 **Single-valued hyperlogarithms, correlation functions and closed string amplitudes**\
 *Joint with Pierre Vanhove*\
-To appear in Adv. Theor. Math. Phys. Vol. 26 no. 2 (2022)\
+Adv. Theor. Math. Phys. Vol. 26 no. 2 (2022)\
 [arXiv:1812.03018 \[hep-th\]](https://arxiv.org/pdf/1812.03018.pdf)
 
 **Modular and holomorphic graph functions from superstring amplitudes**\
