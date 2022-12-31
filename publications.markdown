@@ -6,7 +6,7 @@ show-avatar: false
 layout: default
 ---
 
-**Analogues of hyperlogarithm functions on affine complex curves**
+**Analogues of hyperlogarithm functions on affine complex curves**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
 
