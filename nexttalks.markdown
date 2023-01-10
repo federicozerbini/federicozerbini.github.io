@@ -16,6 +16,6 @@ Algebraic geometry and algebraic topology seminar, Angers University
 *Abstract*: TBA
 
 **20/03/2023**
-Bethe forum: conference on Geometries and Special Functions for Physics and Mathematics, Bonn university
+Bethe forum: conference on Geometries and Special Functions for Physics and Mathematics, Bonn University
 *Title*: Analogues of hyperlogarithm functions on affine complex curves
 *Abstract*: TBA
