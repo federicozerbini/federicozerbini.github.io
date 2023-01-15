@@ -9,7 +9,7 @@ Since September 2022, I am a postdoctoral fellow at the [Mathematical Institute]
 
 Previously, I was funded by a Marie Sklodowska-Curie Individual Fellowship for the project [HIPSAM](https://cordis.europa.eu/project/id/843960) (Higher Polylogarithms and String Amplitudes).
 
-Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](http://www.ihes.fr/\~vanhove/motivefeynman-online.html) on motives and period integrals in quantum field theory and string theory.
+Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](https://www.ihes.fr/~vanhove/motivefeynman-2023.html) on motives and period integrals in quantum field theory and string theory.
 
 You can reach out to me at: federico.zerbini "at" maths.ox.ac.uk
 
