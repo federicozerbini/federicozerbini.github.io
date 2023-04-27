@@ -5,7 +5,7 @@ position: 3
 layout: default
 ---
 
-**??/06/2023**
-Workshop on New Connections between Physics and Number Theory, Pollica (Italy)
-*Title*: TBA
+**??/06/2023**\
+Workshop on New Connections between Physics and Number Theory, Pollica (Italy)\
+*Title*: TBA\
 *Abstract*: TBA
