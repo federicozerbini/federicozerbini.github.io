@@ -25,7 +25,7 @@ You can reach out to me at: federico.zerbini "at" maths.ox.ac.uk
 
 **Building blocks of closed and open string amplitudes**
 *Joint with Pierre Vanhove*\
-To appear in the proceedings of the conference Mathemamplitudes (2020)\
+PoS Vol. 383 (2022) MA2019 022\
 [arXiv:2007.08981 \[hep-th\]](https://arxiv.org/pdf/2007.08981.pdf)
 
 **Genus-zero and genus-one string amplitudes and special multiple zeta values**
