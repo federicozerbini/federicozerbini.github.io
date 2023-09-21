@@ -15,6 +15,10 @@ You can reach out to me at: federico.zerbini "at" maths.ox.ac.uk
 
 # Latest articles
 
+**Elliptic hyperlogarithms**
+*Joint with Benjamin Enriquez*\
+[arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
+
 **Analogues of hyperlogarithm functions on affine complex curves**
 *Joint with Benjamin Enriquez*\
 [arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
@@ -22,16 +26,6 @@ You can reach out to me at: federico.zerbini "at" maths.ox.ac.uk
 **Construction of Maurer-Cartan elements over configuration spaces of curves**
 *Joint with Benjamin Enriquez*\
 [arXiv:2110.09341 \[math.AG\]](https://arxiv.org/abs/2110.09341)
-
-**Building blocks of closed and open string amplitudes**
-*Joint with Pierre Vanhove*\
-PoS Vol. 383 (2022) MA2019 022\
-[arXiv:2007.08981 \[hep-th\]](https://arxiv.org/pdf/2007.08981.pdf)
-
-**Genus-zero and genus-one string amplitudes and special multiple zeta values**
-*Joint with Don Zagier*\
-Commun. Number Theory Phys. Vol. 14 (2020), no. 2, 413–452\
-[arXiv:1906.12339 \[math.NT\]](https://arxiv.org/pdf/1906.12339.pdf)
 
 **A picture in Cote d'Azur (2021)**
 

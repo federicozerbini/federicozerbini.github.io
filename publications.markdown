@@ -6,6 +6,10 @@ show-avatar: false
 layout: default
 ---
 
+**Elliptic hyperlogarithms**
+*Joint with Benjamin Enriquez*\
+[arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
+
 **Analogues of hyperlogarithm functions on affine complex curves**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
