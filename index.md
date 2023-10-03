@@ -15,15 +15,15 @@ You can reach out to me at: federico.zerbini "at" maths.ox.ac.uk
 
 # Latest articles
 
-**Elliptic hyperlogarithms**
+**Elliptic hyperlogarithms**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
 
-**Analogues of hyperlogarithm functions on affine complex curves**
+**Analogues of hyperlogarithm functions on affine complex curves**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
 
-**Construction of Maurer-Cartan elements over configuration spaces of curves**
+**Construction of Maurer-Cartan elements over configuration spaces of curves**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2110.09341 \[math.AG\]](https://arxiv.org/abs/2110.09341)
 

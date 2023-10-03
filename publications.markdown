@@ -6,7 +6,7 @@ show-avatar: false
 layout: default
 ---
 
-**Elliptic hyperlogarithms**
+**Elliptic hyperlogarithms**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
 
