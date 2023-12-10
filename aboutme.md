@@ -17,7 +17,7 @@ Previously, I was funded by a Marie Sklodowska-Curie Individual Fellowship for t
 You can reach out to me at: zerbini.federico "at" gmail.com
 
 Professional address:\
-UNED university\
+Universidad UNED\
 Departamento de Matemáticas\
 Calle de Juan del Rosal 10\
 28040 Madrid\
