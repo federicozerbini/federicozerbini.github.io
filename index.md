@@ -5,9 +5,17 @@ show-avatar: false
 layout: page
 ---
 
-Since September 2022, I am a postdoctoral fellow at the [Mathematical Institute](https://www.maths.ox.ac.uk/) of the University of Oxford.
+Since December 2023, I have a Beatriz Galindo tenure track position at the mathematical department of the UNED (Madrid, Spain).
 
-Previously, I was funded by a Marie Sklodowska-Curie Individual Fellowship for the project [HIPSAM](https://cordis.europa.eu/project/id/843960) (Higher Polylogarithms and String Amplitudes).
+I am mainly interested in:
+
+* Periods and special functions arising from Riemann surfaces, such as multiple zeta values, multiple polylogarithms and higher-genus generalisations.
+
+* All kinds of modular forms.
+
+* Applications of the above objects to the computation of Feynman amplitudes, especially in superstring theory.
+
+I am currently also interested in various topics in the interface between mathematics and physics, such as mirror symmetry, topological recursion and resurgence.
 
 Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](https://www.ihes.fr/~vanhove/motivefeynman-2023.html) on motives and period integrals in quantum field theory and string theory.
 

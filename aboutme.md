@@ -6,24 +6,19 @@ subtitle:
 layout: default
 ---
 
-I am mainly interested in:
+From September 2022 to November 2023 I was a postdoctoral fellow at the mathematical institute of the University of Oxford, and a lecturer at St. Peters College.
 
-* Periods, and especially multiple zeta values, multiple polylogarithms and higher-genus generalisations
+Previously, I was funded by a Marie Sklodowska-Curie Individual Fellowship for the project [HIPSAM](https://cordis.europa.eu/project/id/843960) (Higher Polylogarithms and String Amplitudes).
 
-* Feynman amplitudes, and especially string theory amplitudes
-
-* Modular forms
-
-[Here](/uploads/Zerbini-CV.pdf) you can look at my CV.
+[Here](/uploads/Zerbini-CV.pdf) you can look at my full CV.
 
 [Here](http://hss.ulb.uni-bonn.de/2018/5000/5000.htm) you can find my PhD Thesis, entitled "Elliptic multiple zeta values, modular graph functions and genus 1 superstring scattering amplitudes", published by the University of Bonn and supervised by [Don Zagier](https://people.mpim-bonn.mpg.de/zagier/).
 
-You can reach out to me at: federico.zerbini "at" maths.ox.ac.uk
+You can reach out to me at: zerbini.federico "at" gmail.com
 
 Professional address: 
-Mathematical Institute, University of Oxford,
-Andrew Wiles Building,
-Radcliffe Observatory Quarter (550),
-Woodstock Road,
-Oxford,
-OX2 6GG (UK)
+Universidad UNED
+Departamento de Matemáticas
+Calle de Juan del Rosal 10
+28040 Madrid
+Spain
