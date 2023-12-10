@@ -13,8 +13,8 @@ Simons Center for Geometry and Physics, Stonybrook
 Workshop [Follow-Up Workshop to TP ''Periods in Physics, Number Theory and Algebraic Geometry''](https://www.him.uni-bonn.de/events/scientific-events/single-scientific-events/follow-up-tp-number-theory-2024/participants/)\
 HIM Bonn
 
-**May 2024**\
-Programme [Resurgence and Modularity in QFT and String Theory](https://www.ggi.infn.it/showevent.pl?id=471)\
+**April-May 2024**\
+Programme [Resurgence and Modularity in QFT and String Theory](https://www.ggi.infn.it/showevent.pl?id=467)\
 GGI Florence
 
 **June 2024**\
