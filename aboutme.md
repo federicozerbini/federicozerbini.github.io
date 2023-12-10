@@ -6,7 +6,7 @@ subtitle:
 layout: default
 ---
 
-From September 2022 to November 2023 I was a postdoctoral fellow at the mathematical institute of the University of Oxford, and a lecturer at St. Peters College.
+From September 2022 to November 2023 I was a postdoctoral fellow at the mathematical institute of the University of Oxford, and a lecturer at St. Peter's College.
 
 Previously, I was funded by a Marie Sklodowska-Curie Individual Fellowship for the project [HIPSAM](https://cordis.europa.eu/project/id/843960) (Higher Polylogarithms and String Amplitudes).
 
@@ -16,9 +16,9 @@ Previously, I was funded by a Marie Sklodowska-Curie Individual Fellowship for t
 
 You can reach out to me at: zerbini.federico "at" gmail.com
 
-Professional address: 
-Universidad UNED
-Departamento de Matemáticas
-Calle de Juan del Rosal 10
-28040 Madrid
+Professional address:\
+Universidad UNED\
+Departamento de Matemáticas\
+Calle de Juan del Rosal 10\
+28040 Madrid\
 Spain
