@@ -27,7 +27,7 @@ description: Ph.D in Mathematics
 navbar-links:
   About: aboutme
   Publications: publications
-  Next talks: nexttalks
+  Next Events: nextevents
 avatar: "/img/avatar-icon.png"
 author:
   name: Federico Zerbini
