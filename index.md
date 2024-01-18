@@ -17,7 +17,7 @@ I am mainly interested in:
 
 I am currently also interested in various topics in the interface between mathematics and physics, such as mirror symmetry, topological recursion and resurgence.
 
-Together with [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](https://www.ihes.fr/~vanhove/motivefeynman-2023.html) on motives and period integrals in quantum field theory and string theory.
+Together with [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown), [Erik Panzer](http://people.maths.ox.ac.uk/panzer/) and [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](https://www.ihes.fr/~vanhove/motivefeynman-2023.html) on motives and period integrals in quantum field theory and string theory.
 
 You can reach out to me at: f.zerbini "at" mat.uned.es
 
