@@ -7,10 +7,6 @@ layout: default
 
 # Upcoming
 
-**February 2024**\
-Workshop [Mathematical Aspects of N=4 Super-Yang-Mills Theory](https://scgp.stonybrook.edu/archives/39835)\
-Simons Center for Geometry and Physics, Stonybrook
-
 **April 2024**\
 Workshop [Follow-Up Workshop to TP ''Periods in Physics, Number Theory and Algebraic Geometry''](https://www.him.uni-bonn.de/events/scientific-events/single-scientific-events/follow-up-tp-number-theory-2024/participants/)\
 HIM Bonn
