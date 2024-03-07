@@ -1,5 +1,5 @@
 ---
-title: Next events
+title: Events
 date: 2018-04-29 19:32:00 +02:00
 position: 3
 layout: default
