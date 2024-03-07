@@ -24,7 +24,7 @@ Workshop [Beyond Elliptic Polylogarithms](http://webfiles.birs.ca/events/2024/5-
 CMO Oaxaca
 
 **July 2024**\
-Workshop ''New aspects in Topological Recursion, Resurgence and related topics''(https://sites.google.com/view/rims2024/ws1)\
+Workshop [New aspects in Topological Recursion, Resurgence and related topics](https://sites.google.com/view/rims2024/ws1)\
 RIMS Kyoto
 
 **August 2024**\
