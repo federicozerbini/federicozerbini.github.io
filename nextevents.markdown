@@ -7,10 +7,6 @@ layout: default
 
 # Upcoming
 
-**April 2024**\
-Workshop [Follow-Up Workshop to TP ''Periods in Physics, Number Theory and Algebraic Geometry''](https://www.him.uni-bonn.de/events/scientific-events/single-scientific-events/follow-up-tp-number-theory-2024/participants/)\
-HIM Bonn
-
 **April-May 2024**\
 Programme [Resurgence and Modularity in QFT and String Theory](https://www.ggi.infn.it/showevent.pl?id=467)\
 GGI Florence
@@ -32,6 +28,10 @@ Summer school [Quantum Geometry (Mathematical Methods for Gravity, Gauge Theorie
 Les Houches
 
 # Recent Past
+
+**April 2024**\
+Workshop [Follow-Up Workshop to TP ''Periods in Physics, Number Theory and Algebraic Geometry''](https://www.him.uni-bonn.de/events/scientific-events/single-scientific-events/follow-up-tp-number-theory-2024/participants/)\
+HIM Bonn
 
 **March 2024**\
 Workshop [Multiple zeta values, associators and related topics](https://www.nccr-swissmap.ch/news-and-events/events/multiple-zeta-values-associators-and-related-topics?occurrenceID=1558)\
