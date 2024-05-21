@@ -7,10 +7,6 @@ layout: default
 
 # Upcoming
 
-**April-May 2024**\
-Programme [Resurgence and Modularity in QFT and String Theory](https://www.ggi.infn.it/showevent.pl?id=467)\
-GGI Florence
-
 **June 2024**\
 Workshop [Beyond Elliptic Polylogarithms](http://webfiles.birs.ca/events/2024/5-day-workshops/24w5189)\
 CMO Oaxaca
@@ -28,6 +24,10 @@ Summer school [Quantum Geometry (Mathematical Methods for Gravity, Gauge Theorie
 Les Houches
 
 # Recent Past
+
+**April-May 2024**\
+Programme [Resurgence and Modularity in QFT and String Theory](https://www.ggi.infn.it/showevent.pl?id=467)\
+GGI Florence
 
 **April 2024**\
 Workshop [Follow-Up Workshop to TP ''Periods in Physics, Number Theory and Algebraic Geometry''](https://www.him.uni-bonn.de/events/scientific-events/single-scientific-events/follow-up-tp-number-theory-2024/participants/)\
