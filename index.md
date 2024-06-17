@@ -23,6 +23,10 @@ You can reach out to me at: f.zerbini "at" mat.uned.es
 
 # Latest articles
 
+**Schottky-Kronecker forms and hyperelliptic polylogarithms*\
+*Joint with Konstantin Baune, Johannes Broedel, Egor Im and Artyom Lisitsyn*\
+[arXiv:2406.10051 \[hep-th\]](https://arxiv.org/abs/2406.10051)
+
 **Elliptic hyperlogarithms**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
@@ -30,10 +34,6 @@ You can reach out to me at: f.zerbini "at" mat.uned.es
 **Analogues of hyperlogarithm functions on affine complex curves**\
 *Joint with Benjamin Enriquez*\
 [arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
-
-**Construction of Maurer-Cartan elements over configuration spaces of curves**\
-*Joint with Benjamin Enriquez*\
-[arXiv:2110.09341 \[math.AG\]](https://arxiv.org/abs/2110.09341)
 
 **A picture in Cote d'Azur (2021)**
 
