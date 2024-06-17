@@ -23,7 +23,7 @@ You can reach out to me at: f.zerbini "at" mat.uned.es
 
 # Latest articles
 
-**Schottky-Kronecker forms and hyperelliptic polylogarithms*\
+**Schottky-Kronecker forms and hyperelliptic polylogarithms**\
 *Joint with Konstantin Baune, Johannes Broedel, Egor Im and Artyom Lisitsyn*\
 [arXiv:2406.10051 \[hep-th\]](https://arxiv.org/abs/2406.10051)
 
