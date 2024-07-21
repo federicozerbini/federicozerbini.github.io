@@ -7,14 +7,6 @@ layout: default
 
 # Upcoming
 
-**June 2024**\
-Workshop [Beyond Elliptic Polylogarithms](http://webfiles.birs.ca/events/2024/5-day-workshops/24w5189)\
-CMO Oaxaca
-
-**July 2024**\
-Workshop [New aspects in Topological Recursion, Resurgence and related topics](https://sites.google.com/view/rims2024/ws1)\
-RIMS Kyoto
-
 **August 2024**\
 Programme [Special Functions: from Geometry to Fundamental Interactions](https://www.munich-iapbp.de/special-functions)\
 MIAPbP Munich
@@ -24,6 +16,14 @@ Summer school [Quantum Geometry (Mathematical Methods for Gravity, Gauge Theorie
 Les Houches
 
 # Recent Past
+
+**July 2024**\
+Workshop [New aspects in Topological Recursion, Resurgence and related topics](https://sites.google.com/view/rims2024/ws1)\
+RIMS Kyoto
+
+**June 2024**\
+Workshop [Beyond Elliptic Polylogarithms](http://webfiles.birs.ca/events/2024/5-day-workshops/24w5189)\
+CMO Oaxaca
 
 **April-May 2024**\
 Programme [Resurgence and Modularity in QFT and String Theory](https://www.ggi.infn.it/showevent.pl?id=467)\
