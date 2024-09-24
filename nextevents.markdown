@@ -14,12 +14,12 @@ IHES Bures-sur-Yvette
 # Recent Past
 
 **August 2024**\
-Programme [Special Functions: from Geometry to Fundamental Interactions](https://www.munich-iapbp.de/special-functions)\
-MIAPbP Munich
-
-**August 2024**\
 Summer school [Quantum Geometry (Mathematical Methods for Gravity, Gauge Theories and Non-Perturbative Physics)](https://houches24.github.io/)\
 Les Houches
+
+**August 2024**\
+Programme [Special Functions: from Geometry to Fundamental Interactions](https://www.munich-iapbp.de/special-functions)\
+MIAPbP Munich
 
 **July 2024**\
 Workshop [New aspects in Topological Recursion, Resurgence and related topics](https://sites.google.com/view/rims2024/ws1)\
