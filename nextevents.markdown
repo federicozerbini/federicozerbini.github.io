@@ -7,6 +7,12 @@ layout: default
 
 # Upcoming
 
+**September 2024**\
+Conference [Mathematics on the Crossroad of Centuries](https://indico.math.cnrs.fr/event/11957/)\
+IHES Bures-sur-Yvette
+
+# Recent Past
+
 **August 2024**\
 Programme [Special Functions: from Geometry to Fundamental Interactions](https://www.munich-iapbp.de/special-functions)\
 MIAPbP Munich
@@ -14,8 +20,6 @@ MIAPbP Munich
 **August 2024**\
 Summer school [Quantum Geometry (Mathematical Methods for Gravity, Gauge Theories and Non-Perturbative Physics)](https://houches24.github.io/)\
 Les Houches
-
-# Recent Past
 
 **July 2024**\
 Workshop [New aspects in Topological Recursion, Resurgence and related topics](https://sites.google.com/view/rims2024/ws1)\
