@@ -25,7 +25,7 @@ You can reach out to me at: f.zerbini "at" mat.uned.es
 
 **Schottky-Kronecker forms and hyperelliptic polylogarithms**\
 *Joint with Konstantin Baune, Johannes Broedel, Egor Im and Artyom Lisitsyn*\
-J. Phys. A: Math. Theor. 57 445202\
+J. Phys. A: Math. Theor. 57 445202 (2024)\
 [arXiv:2406.10051 \[hep-th\]](https://arxiv.org/abs/2406.10051)
 
 **Elliptic hyperlogarithms**\
