@@ -17,6 +17,7 @@ J. Phys. A: Math. Theor. 57 445202 (2024)\
 
 **9. Analogues of hyperlogarithm functions on affine complex curves**\
 *Joint with Benjamin Enriquez*\
+Publ. Res. Inst. Math. Sci., accepted (2024)\
 [arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
 
 **8. Construction of Maurer-Cartan elements over configuration spaces of curves**\
