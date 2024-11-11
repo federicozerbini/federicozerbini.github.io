@@ -30,6 +30,7 @@ J. Phys. A: Math. Theor. 57 445202 (2024)\
 
 **Elliptic hyperlogarithms**\
 *Joint with Benjamin Enriquez*\
+Canad. J. Math., accepted (2024)
 [arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
 
 **Analogues of hyperlogarithm functions on affine complex curves**\
