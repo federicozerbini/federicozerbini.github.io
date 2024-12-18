@@ -7,11 +7,13 @@ layout: default
 
 # Upcoming
 
+I will be on paternity leave until May 2025
+
+# Recent Past
+
 **September 2024**\
 Conference [Mathematics on the Crossroad of Centuries](https://indico.math.cnrs.fr/event/11957/)\
 IHES Bures-sur-Yvette
-
-# Recent Past
 
 **August 2024**\
 Summer school [Quantum Geometry (Mathematical Methods for Gravity, Gauge Theories and Non-Perturbative Physics)](https://houches24.github.io/)\
