@@ -12,7 +12,7 @@ Previously, I was funded by a Marie Sklodowska-Curie Individual Fellowship for t
 
 [Here](/uploads/Zerbini-CV.pdf) you can view my full CV.
 
-[Here](http://hss.ulb.uni-bonn.de/2018/5000/5000.htm) you can find my PhD Thesis, entitled "Elliptic multiple zeta values, modular graph functions and genus 1 superstring scattering amplitudes", published by the University of Bonn and supervised by [Don Zagier](https://people.mpim-bonn.mpg.de/zagier/).
+[Here](https://arxiv.org/pdf/1804.07989) you can find my PhD Thesis, entitled "Elliptic multiple zeta values, modular graph functions and genus 1 superstring scattering amplitudes", published by the University of Bonn and supervised by [Don Zagier](https://people.mpim-bonn.mpg.de/zagier/).
 
 You can reach out to me at: f.zerbini "at" mat.uned.es
 
