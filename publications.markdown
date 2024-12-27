@@ -6,6 +6,11 @@ show-avatar: false
 layout: default
 ---
 
+**12. Closed-string amplitude recursions from the Deligne associator**\
+*Joint with Konstantin Baune and Johannes Broedel*\
+[arXiv:2412.17579 [hep-th]]
+(https://arxiv.org/abs/2412.17579)
+
 **11. Schottky-Kronecker forms and hyperelliptic polylogarithms**\
 *Joint with Konstantin Baune, Johannes Broedel, Egor Im and Artyom Lisitsyn*\
 J. Phys. A: Math. Theor. 57 445202 (2024)\
