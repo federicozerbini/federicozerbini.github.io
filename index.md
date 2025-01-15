@@ -25,6 +25,11 @@ I will be on paternity leave until May 2025
 
 # Latest articles
 
+**Relating flat connections and polylogarithms on higher genus Riemann surfaces**\
+*Joint with Eric D'Hoker, Benjamin Enriquez and Oliver Schlotterer*\
+[arXiv:2501.07640 \[hep-th\]]
+\(https://arxiv.org/abs/2501.07640)
+
 **Closed-string amplitude recursions from the Deligne associator**\
 *Joint with Konstantin Baune and Johannes Broedel*\
 [arXiv:2412.17579 \[hep-th\]]
@@ -39,11 +44,6 @@ J. Phys. A: Math. Theor. 57 445202 (2024)\
 *Joint with Benjamin Enriquez*\
 Canad. J. Math., accepted (2024)\
 [arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
-
-**Analogues of hyperlogarithm functions on affine complex curves**\
-*Joint with Benjamin Enriquez*\
-Publ. Res. Inst. Math. Sci., accepted (2024)\
-[arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
 
 **A picture in Cote d'Azur (2021)**
 
