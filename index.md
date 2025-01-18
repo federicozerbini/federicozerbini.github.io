@@ -42,7 +42,7 @@ J. Phys. A: Math. Theor. 57 445202 (2024)\
 
 **Elliptic hyperlogarithms**\
 *Joint with Benjamin Enriquez*\
-Canad. J. Math., accepted (2024)\
+Canad. J. Math., published online 2025:1-36\
 [arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
 
 **A picture in Cote d'Azur (2021)**
