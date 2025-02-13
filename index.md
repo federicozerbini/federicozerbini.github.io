@@ -31,8 +31,7 @@ I will be on paternity leave until May 2025
 
 **Closed-string amplitude recursions from the Deligne associator**\
 *Joint with Konstantin Baune and Johannes Broedel*\
-[arXiv:2412.17579 \[hep-th\]]
-(https://arxiv.org/abs/2412.17579)
+[arXiv:2412.17579 \[hep-th\]](https://arxiv.org/abs/2412.17579)
 
 **Schottky-Kronecker forms and hyperelliptic polylogarithms**\
 *Joint with Konstantin Baune, Johannes Broedel, Egor Im and Artyom Lisitsyn*\
