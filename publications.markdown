@@ -8,13 +8,11 @@ layout: default
 
 **13. Relating flat connections and polylogarithms on higher genus Riemann surfaces**\
 *Joint with Eric D'Hoker, Benjamin Enriquez and Oliver Schlotterer*\
-[arXiv:2501.07640 \[hep-th\]]
-(https://arxiv.org/abs/2501.07640)
+[arXiv:2501.07640 \[hep-th\]](https://arxiv.org/abs/2501.07640)
 
 **12. Closed-string amplitude recursions from the Deligne associator**\
 *Joint with Konstantin Baune and Johannes Broedel*\
-[arXiv:2412.17579 \[hep-th\]]
-(https://arxiv.org/abs/2412.17579)
+[arXiv:2412.17579 \[hep-th\]](https://arxiv.org/abs/2412.17579)
 
 **11. Schottky-Kronecker forms and hyperelliptic polylogarithms**\
 *Joint with Konstantin Baune, Johannes Broedel, Egor Im and Artyom Lisitsyn*\
