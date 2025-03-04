@@ -10,18 +10,15 @@ layout: default
 I will be on paternity leave until May 2025
 
 **June 2025**\
-Workshop [Modular in Bielefeld]
-(https://www.math.uni-bielefeld.de/mib2025/)
+Workshop [Modular in Bielefeld](https://www.math.uni-bielefeld.de/mib2025/)\
 Bielefeld University
 
 **September 2025**\
-Workshop [Around associators: from integrable systems to number theory]
-(https://indico.global/event/13900/)
+Workshop [Around associators: from integrable systems to number theory](https://indico.global/event/13900/)\
 Les Diablerets
 
 **February 2026**\
-Workshop [Multiple Zeta Values and Modular Forms]
-(https://www.mfo.de/occasion/2608a/www_view)
+Workshop [Multiple Zeta Values and Modular Forms](https://www.mfo.de/occasion/2608a/www_view)\
 Oberwolfach
 
 # Recent Past
