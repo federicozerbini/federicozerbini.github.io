@@ -7,8 +7,6 @@ layout: default
 
 # Upcoming
 
-I will be on paternity leave until May 2025
-
 **June 2025**\
 Workshop [Modular in Bielefeld](https://www.math.uni-bielefeld.de/mib2025/)\
 Bielefeld University
@@ -17,9 +15,21 @@ Bielefeld University
 Workshop [Around associators: from integrable systems to number theory](https://indico.global/event/13900/)\
 Les Diablerets
 
+**November 2025**\
+School [Number Theory and Physics](https://indico.ictp.it/event/10965)\
+ICTP, Trieste
+
 **February 2026**\
 Workshop [Multiple Zeta Values and Modular Forms](https://www.mfo.de/occasion/2608a/www_view)\
 Oberwolfach
+
+**February-March 2026**\
+Programme [Amplitudes and Algebraic Geometry](https://www.esi.ac.at/events/e586/)\
+ESI, Vienna
+
+**September 2026**\
+Workshop [Elliptics & beyond '26](https://swissmaprs.ch/events/elliptics-beyond-26/)\
+Les Diablerets
 
 # Recent Past
 
