@@ -21,8 +21,6 @@ Together with [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown), 
 
 You can reach out to me at: f.zerbini "at" mat.uned.es
 
-I will be on paternity leave until May 2025
-
 # Latest articles
 
 **Relating flat connections and polylogarithms on higher genus Riemann surfaces**\
