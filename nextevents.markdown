@@ -7,10 +7,6 @@ layout: default
 
 # Upcoming
 
-**June 2025**\
-Workshop [Modular in Bielefeld](https://www.math.uni-bielefeld.de/mib2025/)\
-Bielefeld University
-
 **September 2025**\
 Workshop [Around associators: from integrable systems to number theory](https://indico.global/event/13900/)\
 Les Diablerets
@@ -32,6 +28,10 @@ Workshop [Elliptics & beyond '26](https://swissmaprs.ch/events/elliptics-beyond-
 Les Diablerets
 
 # Recent Past
+
+**June 2025**\
+Workshop [Modular in Bielefeld](https://www.math.uni-bielefeld.de/mib2025/)\
+Bielefeld University
 
 **September 2024**\
 Conference [Mathematics on the Crossroad of Centuries](https://indico.math.cnrs.fr/event/11957/)\
