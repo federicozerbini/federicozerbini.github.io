@@ -26,7 +26,7 @@ Canad. J. Math., published online 2025:1-36\
 
 **9. Analogues of hyperlogarithm functions on affine complex curves**\
 *Joint with Benjamin Enriquez*\
-Publ. Res. Inst. Math. Sci., accepted (2024)\
+Publ. Res. Inst. Math. Sci., to appear in Vol. 61 (2025), no. 4\
 [arXiv:2212.03119 \[math.AG\]](https://arxiv.org/abs/2212.03119)
 
 **8. Construction of Maurer-Cartan elements over configuration spaces of curves**\
