@@ -29,6 +29,7 @@ You can reach out to me at: f.zerbini "at" mat.uned.es
 
 **Closed-string amplitude recursions from the Deligne associator**\
 *Joint with Konstantin Baune and Johannes Broedel*\
+To appear in Adv. Theor. Math. Phys.\
 [arXiv:2412.17579 \[hep-th\]](https://arxiv.org/abs/2412.17579)
 
 **Schottky-Kronecker forms and hyperelliptic polylogarithms**\
