@@ -25,6 +25,7 @@ You can reach out to me at: f.zerbini "at" mat.uned.es
 
 **Relating flat connections and polylogarithms on higher genus Riemann surfaces**\
 *Joint with Eric D'Hoker, Benjamin Enriquez and Oliver Schlotterer*\
+To appear in Commun. Math. Phys.\
 [arXiv:2501.07640 \[hep-th\]](https://arxiv.org/abs/2501.07640)
 
 **Closed-string amplitude recursions from the Deligne associator**\
