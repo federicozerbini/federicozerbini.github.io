@@ -7,10 +7,6 @@ layout: default
 
 # Upcoming
 
-**November 2025**\
-School [Number Theory and Physics](https://indico.ictp.it/event/10965)\
-ICTP, Trieste
-
 **February 2026**\
 Workshop [Multiple Zeta Values and Modular Forms](https://www.mfo.de/occasion/2608a/www_view)\
 Oberwolfach
@@ -24,6 +20,10 @@ Workshop [Elliptics & beyond '26](https://swissmaprs.ch/events/elliptics-beyond-
 Les Diablerets
 
 # Recent Past
+
+**November 2025**\
+School [Number Theory and Physics](https://indico.ictp.it/event/10965)\
+ICTP, Trieste
 
 **September 2025**\
 Workshop [Around associators: from integrable systems to number theory](https://indico.global/event/13900/)\
