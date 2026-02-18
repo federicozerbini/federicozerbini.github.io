@@ -8,7 +8,7 @@ layout: default
 
 **13. Relating flat connections and polylogarithms on higher genus Riemann surfaces**\
 *Joint with Eric D'Hoker, Benjamin Enriquez and Oliver Schlotterer*\
-To appear in Commun. Math. Phys.\
+Commun. Math. Phys. 407(3), 43, 2026\
 [arXiv:2501.07640 \[hep-th\]](https://arxiv.org/abs/2501.07640)
 
 **12. Closed-string amplitude recursions from the Deligne associator**\
