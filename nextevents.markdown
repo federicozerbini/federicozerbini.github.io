@@ -7,10 +7,6 @@ layout: default
 
 # Upcoming
 
-**February 2026**\
-Workshop [Multiple Zeta Values and Modular Forms](https://www.mfo.de/occasion/2608a/www_view)\
-Oberwolfach
-
 **February-March 2026**\
 Programme [Amplitudes and Algebraic Geometry](https://www.esi.ac.at/events/e586/)\
 ESI, Vienna
@@ -20,6 +16,10 @@ Workshop [Elliptics & beyond '26](https://swissmaprs.ch/events/elliptics-beyond-
 Les Diablerets
 
 # Recent Past
+
+**February 2026**\
+Workshop [Multiple Zeta Values and Modular Forms](https://www.mfo.de/occasion/2608a/www_view)\
+Oberwolfach
 
 **November 2025**\
 School [Number Theory and Physics](https://indico.ictp.it/event/10965)\
