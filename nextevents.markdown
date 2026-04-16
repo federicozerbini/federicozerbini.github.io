@@ -7,15 +7,15 @@ layout: default
 
 # Upcoming
 
-**February-March 2026**\
-Programme [Amplitudes and Algebraic Geometry](https://www.esi.ac.at/events/e586/)\
-ESI, Vienna
-
 **September 2026**\
 Workshop [Elliptics & beyond '26](https://swissmaprs.ch/events/elliptics-beyond-26/)\
 Les Diablerets
 
 # Recent Past
+
+**February-March 2026**\
+Programme [Amplitudes and Algebraic Geometry](https://www.esi.ac.at/events/e586/)\
+ESI, Vienna
 
 **February 2026**\
 Workshop [Multiple Zeta Values and Modular Forms](https://www.mfo.de/occasion/2608a/www_view)\
