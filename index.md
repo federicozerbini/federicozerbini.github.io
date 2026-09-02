@@ -36,6 +36,6 @@ To appear in Adv. Theor. Math. Phys.\
 [arXiv:2412.17579 \[hep-th\]](https://arxiv.org/abs/2412.17579)
 
 
-**A sexy picture in Cote d'Azur (2021)**
+**A picture in Cote d'Azur (2021)**
 
 ![IMG_2804.JPG](/uploads/IMG_2804.JPG)
