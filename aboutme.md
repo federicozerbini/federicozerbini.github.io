@@ -1,20 +1,26 @@
 ---
 title: About me
+position: 1
 show-avatar: false
 subtitle: 
-layout: page
+layout: default
 ---
 
-I am a Hadamard Post-Doc at [IPhT](https://www.ipht.fr/) (CEA-Saclay)
+From September 2022 to November 2023 I was a postdoctoral fellow at the mathematical institute of the University of Oxford, and a lecturer at St. Peter's College.
 
-Institut de Physique Théorique
-Orme des Merisiers batiment 774
-Point courrier 136
-CEA/DSM/IPhT, CEA/Saclay
-F-91191 Gif-sur-Yvette Cedex
+Previously, I was funded by a Marie Sklodowska-Curie Individual Fellowship for the project [HIPSAM](https://cordis.europa.eu/project/id/843960) (Higher Polylogarithms and String Amplitudes).
 
-You can reach out to me at: federico.zerbini "at" ipht.fr
+Together with [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown), [Erik Panzer](http://people.maths.ox.ac.uk/panzer/) and [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I used to organise an [online seminar](https://www.ihes.fr/\~vanhove/motivefeynman-2023.html) on motives and period integrals in quantum field theory and string theory.
 
-[Here](/uploads/Zerbini-ShortCV.pdf) you can look at my CV
+[Here](/uploads/Zerbini-CV.pdf) you can view my full CV.
 
-[Here](http://hss.ulb.uni-bonn.de/2018/5000/5000.htm) you can find my PhD Thesis, entitled "Elliptic multiple zeta values, modular graph functions and genus 1 superstring scattering amplitudes", published by the University of Bonn and supervised by Prof. Dr. [Don Zagier](https://people.mpim-bonn.mpg.de/zagier/)
+[Here](https://arxiv.org/pdf/1804.07989) you can find my PhD Thesis, entitled "Elliptic multiple zeta values, modular graph functions and genus 1 superstring scattering amplitudes", published by the University of Bonn and supervised by [Don Zagier](https://people.mpim-bonn.mpg.de/zagier/).
+
+You can reach out to me at: f.zerbini "at" mat.uned.es
+
+Professional address:\
+UNED\
+Departamento de Matemáticas Fundamentales\
+Calle de Juan del Rosal 10\
+28040 Madrid\
+Spain
