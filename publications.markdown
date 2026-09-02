@@ -6,6 +6,10 @@ show-avatar: false
 layout: default
 ---
 
+**14. Flat connections on moduli spaces I: Local (1,0)-extension of the DHS connection**\
+*Joint with Eric D'Hoker, Benjamin Enriquez and Oliver Schlotterer*\
+[arXiv:2608.29169 \[hep-th\]](https://arxiv.org/abs/2608.29169)
+
 **13. Relating flat connections and polylogarithms on higher genus Riemann surfaces**\
 *Joint with Eric D'Hoker, Benjamin Enriquez and Oliver Schlotterer*\
 Commun. Math. Phys. 407(3), 43, 2026\

@@ -11,6 +11,10 @@ layout: default
 Workshop [Elliptics & beyond '26](https://swissmaprs.ch/events/elliptics-beyond-26/)\
 Les Diablerets
 
+**November 2026**\
+73rd [Kansai Multiple Zeta Seminar](https://sites.google.com/site/kmzsince2011/home)\
+Nagoya University
+
 # Recent Past
 
 **February-March 2026**\

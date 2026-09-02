@@ -17,11 +17,13 @@ I am mainly interested in:
 
 I am currently also interested in various topics at the interface between mathematics and physics, such as mirror symmetry, topological recursion and resurgence.
 
-Together with [Francis Brown](https://www.maths.ox.ac.uk/people/francis.brown), [Erik Panzer](http://people.maths.ox.ac.uk/panzer/) and [Pierre Vanhove](https://sites.google.com/site/vanhovepierre/pierre-vanhove--en), I organise an [online seminar](https://www.ihes.fr/\~vanhove/motivefeynman-2023.html) on motives and period integrals in quantum field theory and string theory.
-
 You can reach out to me at: f.zerbini "at" mat.uned.es
 
 # Latest articles
+
+**Flat connections on moduli spaces I: Local (1,0)-extension of the DHS connection**\
+*Joint with Eric D'Hoker, Benjamin Enriquez and Oliver Schlotterer*\
+[arXiv:2608.29169 \[hep-th\]](https://arxiv.org/abs/2608.29169)
 
 **Relating flat connections and polylogarithms on higher genus Riemann surfaces**\
 *Joint with Eric D'Hoker, Benjamin Enriquez and Oliver Schlotterer*\
@@ -33,16 +35,7 @@ Commun. Math. Phys. 407(3), 43, 2026\
 To appear in Adv. Theor. Math. Phys.\
 [arXiv:2412.17579 \[hep-th\]](https://arxiv.org/abs/2412.17579)
 
-**Schottky-Kronecker forms and hyperelliptic polylogarithms**\
-*Joint with Konstantin Baune, Johannes Broedel, Egor Im and Artyom Lisitsyn*\
-J. Phys. A: Math. Theor. 57 445202 (2024)\
-[arXiv:2406.10051 \[hep-th\]](https://arxiv.org/abs/2406.10051)
 
-**Elliptic hyperlogarithms**\
-*Joint with Benjamin Enriquez*\
-Canad. J. Math., published online 2025:1-36\
-[arXiv:2307.01833 \[math.AG\]](https://arxiv.org/abs/2307.01833)
-
-**A picture in Cote d'Azur (2021)**
+**A sexy picture in Cote d'Azur (2021)**
 
 ![IMG_2804.JPG](/uploads/IMG_2804.JPG)
